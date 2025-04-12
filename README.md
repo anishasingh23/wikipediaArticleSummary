@@ -6,7 +6,7 @@
 
 An AI-powered Wikipedia explorer that uses BERT embeddings to find semantically related articles and visualize their connections.
 
-![Demo Screenshot](demo.png) *(Replace with your actual screenshot)*
+![Demo Screenshot](wiki.png) 
 
 ## 🚀 Features
 
@@ -15,6 +15,7 @@ An AI-powered Wikipedia explorer that uses BERT embeddings to find semantically 
 - **Interactive Visualizations**: Plotly-powered similarity graphs
 - **Quick Facts**: Get key information at a glance
 - **Image Previews**: See article thumbnails when available
+![wiki](https://github.com/user-attachments/assets/cc2ee8b0-d02a-484c-81a0-c054a69e940e)
 
 ## 🛠️ Tech Stack
 
